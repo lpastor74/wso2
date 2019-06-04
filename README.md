@@ -1,4 +1,4 @@
-# Dynamic endpoint API based
+# Dynamic endpoint API based on custom claims
 This project is the companion for my Medium article
 
 to create java class mediator to parse JWT in order to create dynamic endpoint 
