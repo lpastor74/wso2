@@ -1,4 +1,4 @@
-# wso2
+# Dynamic endpoint API based
 This project is the companion for my Medium article
 
 to create java class mediator to parse JWT in order to create dynamic endpoint 
